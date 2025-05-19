@@ -1,4 +1,4 @@
-package main.java.com.example.demo.batch.master.user.chunk;
+package com.example.demo.batch.master.user.chunk;
 
 import org.springframework.batch.item.Chunk;
 import org.springframework.batch.item.ItemWriter;

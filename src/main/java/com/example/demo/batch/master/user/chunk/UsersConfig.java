@@ -1,4 +1,4 @@
-package main.java.com.example.demo.batch.master.user.chunk;
+package com.example.demo.batch.master.user.chunk;
 
 import org.apache.ibatis.session.SqlSessionFactory;
 import org.mybatis.spring.batch.builder.MyBatisCursorItemReaderBuilder;
